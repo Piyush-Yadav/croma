@@ -1,0 +1,619 @@
+Paytm Seller>>Paytm 卖家
+Settings>>设置
+SHOW>>显示
+HIDE>>隐藏
+Authentication error>>验证失败
+Network Error>>网络错误
+Already a seller on Paytm? Login here>>已经是Paytm卖家，请点击这里
+Email Address>>邮件地址
+Password>>密码
+Forgot Password ?>>忘记密码？
+Remember Me>>记住我
+Approve Price Update>>允许价格更新
+(For more than 30% price variance in new value)>>（在新值中有30%的价格变动）
+Login>>登录
+LET\'S GET STARTED>>开始
+Not selling on Paytm yet?\n Create your store now>>还没有在Paytm销售产品？现在就建立你的店铺吧
+PLEASE NOTE>>请注意
+This app is only accessible to existing sellers who have valid login credentials. If you wish to become a seller on Paytm, please click here>>本应用仅服务于已完成注册验证的卖家，如果你想成为Paytm的卖家，请点击这里
+Join thousands of merchants selling their items on India\'s largest mobile commerce platform!>>和成千上万的卖家一起加入印度最大的移动商务平台
+Name>>名字
+Email>>邮箱
+Mobile Number>>移动电话
+Create Password>>创建密码
+Start Selling>>开始销售
+Already a seller? Login Here>>已经是卖家？请点击这里
+Please enter a valid email.>>请输入有效的邮件地址
+Please enter your name.>>请输入你的名字
+Please enter your password.>>请输入你的密码
+You are already registered as a seller\nTo access your account, click here.>>已经注册成为卖家？请点击这里登录你的账户
+This email id is not verified yet. To send the verification link again,\n click here.>>此邮箱地址还没有通过验证，请点击这里再次发送验证连接
+Your email is already verified.\nEnter your details and password to signup.\nForgot Password? click here.>>你的邮箱已经完成验证，输入你的详细资料和密码进行注册；如果忘记密码，请点击这里
+Email using which the seller was created.>>邮箱已被占用
+Please enter a valid email.>>请输入一个有效邮箱地址
+Submit>>提交
+Category Distribution>>品类分布
+Instructions on how to reset password will be sent to you by Email shortly. If you don\'t receive it in a few minutes, Check the Junk/spam folder to ensure that the mail wasn\'t filtered out.>>关于重置密码的说明将以邮件形式很快发出；如果你在一段时间后未能收到邮件，请检查垃圾邮箱是否将邮件过滤掉。
+Please enter 10 digit mobile number.>>请输入10位手机号码
+Enter the OTP(One Time Password) sent to the following mobile number for verification.>>发送一次性密码到如下移动号码进行验证
+Mobile Number>>移动电话
+Change Mobile Number>>更换移动电话
+Enter OTP (One Time Password)>>输入一次性密码
+Resend OTP>>重置一次性密码
+Proceed>>进行
+What would you like your store on Paytm to be called?>>你希望你的店铺叫什么？
+Store Name>>店铺名称
+Store Details & Warehouse Details>>店铺详情&仓库详情
+Business Type>>业务类型
+Registered Business Name>>公司名称
+Registered Business Address>>公司注册地址
+Do you want to use Paytm\'s logistics services?>>你想使用paytm的物流服务吗？
+My warehouse address is same as above.>>我的仓库地址同上
+Give us the address from where you want Paytm courier partner to pick the shipments.>>请分享你的地址以便paytm快递员进行揽货。
+Address>>地址
+PIN Code>>邮编
+City/Town>>城市/乡镇
+State>>省份
+Save & Continue>>保持并继续
+Select Business Type>>选择业务类型
+Select Time>>选择时间
+What will your order dispatch time be?>>你希望的订单派遣时间？
+Our terms & conditions have been updated since the last time you accepted them. \n \nPlease read and agree to these terms & conditions in order to proceed.>>自上次你点击同意后，我们的条款和规定已有更新；为了你的继续使用，请再次阅读并点击同意。
+Welcome to Paytm ! You are minutes away from having your online store up and running. \n \nPlease read and agree to these terms & condition in order to start selling.>>欢迎回到Paytm! 还有几分钟你的在线商店将停止使用；请阅读并同意这些条款和规定以便继续使用。
+I Agree>>我同意
+--Select-->>筛选
+Address proof of business address>>公司注册地址证明
+Select Address Proof Type>>选择地址证明类型
+Upload Address Proof Image>>上传地址证明图像
+Bank account details where the payments for sale of your products should be deposited.>>存放销售收入的银行账户信息
+Beneficiary Name>>收款人姓名
+Account Number>>账号
+Bank Name>>银行名称
+Branch Name>>支行名称
+IFSC CODE>>IFSC码
+Upload Cancelled Cheque Image>>上传作废的支票图片
+Should be of the same account as mentioned above>>须和上述账户一致
+PAN details of your business>>你公司永久账户信息
+Enter your PAN (Permanent Account Number)>>输入你公司永久账户
+Upload PAN Image>>上传永久账户信息图片
+Do you have a valid VAT/TIN?>>你有有效的增值税/纳税识别号吗？
+Enter your VAT/TIN Number>>输入你的增值税/纳税识别号
+Upload VAT/TIN Image>>上传增值税/纳税识别号图片
+No problems, you can become a seller by giving a self declaration, here is how:>>没有问题，你可以通过自申报成为卖家，以下是说明
+Step 1:>>步骤1：
+Download self declaration form by clicking the link below>>点击以下链接下载自申报表格
+Download>>下载
+Step 2:>>步骤2：
+Print the form & fill it as per the instructions, do not forget to sign it.>>打印并根据要求填写，不要忘记签名
+Step 3:>>步骤3：
+Upload the picture of duly filled form by clicking the link below>>点此链接上传填好的表格
+Upload Image>>上传图片
+Save and Submit>>保持并提交
+Paytm>>Paytm
+Catalog>>产品目录
+IN STOCK>>有货
+SOLD OUT>>售罄
+ALL PRODUCTS>>所以产品
+Open navigation drawer>>打开导航栏
+Close navigation drawer>>关闭导航栏
+Merchant SKU>>店铺SKU
+Product ID ->>产品编号 - 
+Product ID>>产品编号
+Basic Details>>基本信息
+NAME>>名字
+EMAIL ID>>邮件地址
+days>>天数
+"Payments Settled in last">>最后确认付款
+Today>>今天
+TODAY>>今天
+week>>周
+This>>这个
+unit sold>>售出单位
+per unit>>每单位
+"New order received">>收到新订单
+"Order cancelled">>订单取消
+Please select valid date range>>请选择有效期限
+Search Catalog>>目录检索
+Switched on. You will receive new order notifications>>开启。你将会收到新订单提示
+Hindi Language Selected.>>印度语已选择
+English Language Selected.>>英语已选择
+Language (Hindi)>>语言（印度语）
+Switched off. You will not receive new order notifications>>关闭。你将不会收到新订单提示
+Processing>>处理中
+Payment Details>>支付详情
+MOBILE NUMBER>>移动电话号码
+COMPANY NAME>>公司名称
+Business Address>>办公地址
+ADDRESS LINE>>地址
+CITY>>城市
+STATE>>省份
+PIN CODE>>邮编
+BANK>>银行
+BRANCH>>分支机构
+BENEFICIARY NAME>>收款人姓名
+ACCOUNT NUMBER>>账号
+MICR CODE>>MICR码
+PAN CARD NUMBER>>永久账户卡号
+VAT/TIN NUMBER>>增值税/纳税识别号
+ADDRESS PROOF>>地址证明
+KYC Document Details>>客户身份验证（KYC）文件详情
+Bank Account Detail>>银行账户详情
+Orders>>订单
+For>>为
+My Profile>>我的资料
+Payments>>支付
+Tools>>工具
+Edit Product>>编辑产品
+Quantity>>数量
+Status>>状态
+Active>>激活
+Order Notifications>>订单提醒
+Language>>语言
+Inactive>>未激活
+MRP>>最高零售价
+DONE>>完成
+CATEGORY>>品类
+Category>>品类
+IMAGES>>图片
+1.4.1>>1.4.1
+Allowed Payment Mode>>允许的付款方式
+Credit Card>>信用卡
+Cash on Delivery>>货到付款
+Debit Card>>借记卡
+Net Banking>>网上银行
+For more details, view on Paytm.com>>更多详情，请查看Paytm.com
+You can always create a new product if what you want to sell is not available already.>>如果你想销售的产品已经不存在，你可以创建一个新产品。
+Search from over 5 million products listed here & start selling it yourself.>>从500万产品检索并自己开始销售吧。
+Sell another variant of an already listed product. Search for the product in your catalog list & add more variant.>>销售所列产品的子产品。在你的产品目录检索并添加更多的子产品。
+Store & Warehouse Details>>店铺和仓库信息
+Accept>>接收
+Bulk Accept>>接收散装
+Bulk Pack>>散装
+Cancel>>取消
+Done>>完成
+SHIPS TO>>运到
+Accept Item(s)>>同意项
+Reject Item>>否决项
+Basis pickup and delivery address, we have picked the best courier partner for this packet.>>取货和送货地址，为这批货选择了最好的承运人
+Following items must be packed in this packet:>>下面的物品须打包到此包裹
+Create Packet>>创建包裹
+Paytm>>Paytm
+We are facing some connectivity issues. Please check your internet connection.>>我们正面临数据连接问题，请检查你的网络状况。
+OK>>确定
+Update now>>现在上传
+Later>>稍后
+Update>>更新
+available!>>可用！
+Request you to update your Paytm Seller app now.>>要求你现在更新Paytm卖家版应用
+Network Error>>网络错误
+Orders>>订单
+Catalog>>目录
+Write to us>>写给我们
+Settings>>设置
+Logout>>注销
+merchant.helpdesk@paytm.com>>merchant.helpdesk@paytm.com
+Query from>>疑问来自
+Email>>邮箱
+Yes>>是
+No>>否
+Select Shippers>>选择托运人
+Select Status>>选择状态
+Choose a status>>选择一个状态
+CLEAR ALL>>清空所有
+Choose Color>>选择颜色
+Order ID - %s>>订单编号 - （字符串）
+Order ID>>订单编号 
+Date - %s>>日期 - （字符串）
+%s Days Left>>剩余（字符串）天
+%s Days Passed>>（字符串）天过去了
+%s Day Left>>剩余（字符串）天
+%s Day Passed>>（字符串）天过去了
+Pack>>打包
+Track Shipment>>查看物流
+Select All>>选择全部
+Order Total - %s>>订单合计 - （字符串）
+Manifest id - %s>>货单编号 - （字符串）
+Manifest ID>>货单编号 
+Courier - %s>>快递 - （字符串）
+Courier>>快递
+AWB - %s>>航空提单 -（字符串）
+AWB>>航空提单
+AWB Number>>航空提单号
+Fulfillment ID - %s>>完成编号 - （字符串）
+Fulfillment ID>>完成编号
+Fulfillment ID>>完成编号
+FULFILLMENT>>完成
+Weight - %s grams>>重量 - （字符串）克
+Weight>>重量 - （字符串）克
+Delivered On - %s>>交付 - （字符串）
+Product Details>>产品详情
+SKU: %s>>库存单位：（字符串）
+GMV>>交易总额
+SKU>>库存单位
+Price: %s>>价格：（字符串）
+%s Item Selected>>（字符串）货品已筛选
+%s Items Selected>>（字符串）货品已筛选
+Download>>下载
+MERCHANT ID>>店主编号
+View>>查看
+Edit>>编辑
+Update>>更新
+View on Paytm.com>>查看Paytm.com
+Create Shipment>>创建物流信息
+Re-email Slips>>重新发送邮件提单
+Reject Item>>驳回的商品
+Search Catalog>>检索目录
+Are you sure you want to accept this item\'s order?>>你确定要接受此产品订单？
+The product in this order will be marked Out of Stock on Paytm marketplace in order to prevent more orders liable for cancellation. Once you are ready to fulfill the order, update the quantity in the catalog to make them In Stock.>>为防止更多订单被取消，这批产品须在Paytm上标识为脱销；一旦货品到位，请更新相应进货数量，以保证其显示有货。
+Optional Key>>可选项
+Value>>价值
+Select courier>>选择快递
+Weight (in grams)>>重量（克）
+Enter Tracking Number>>输入物流单号
+Enter Weight>>输入重量
+Pack Order ID %s>>包装订单编号
+Order accepted successfully. Please proceed to "TO INVOICE/ TO PACK" tab.>>订单成功接收，请点击“发票/打包”按钮继续
+Order rejected successfully.>>订单成功拒绝。
+Enter IMEI/Serial Number>>输入国际移动设备识别码
+Enter IMEI/Serial # for following %s item(s) to proceed.>>输入国际移动设备识别码，以便下述（字符串）货品可以继续操作
+KYC and Bank Details>>客户身份验证（KYC）和银行详情
+UploadImageActivity>>上传图片
+Orders Summary*>>订单总结
+Orders Status*>>订单状态
+Payments>>支付
+Store>>仓储
+Home>>主页
+Enter AWB>>输入航空提货单
+Download Packing Slip>>下载装箱单
+Manifest Requested>>请求装货
+Some Product Reviews:>>一些产品综述：
+Your Rank #%s in your category>>你的排名（字符串）在你的产品目录中
+(%s users)>>（字符串 用户）
+Overall Rating>>总体排名
+Overall Rating: %s>>总体排名：（字符串）
+Products in Stock>>有货
+Sold Out>>脱销
+Paid>>支付
+To be Paid>>待支付
+New Orders>>新订单
+Total Sales>>总销售额
+By Value (₹)>>按价值（）
+High Selling & Low Stock SKU>>销售好&库存低的SKU
+Top Selling Products>>热销产品
+By units sold>>按单位销售
+Units Sold>>销售数量
+Pending Acceptance>>接收待定
+Pending Shipment>>装运待定
+Customer Cancellations>>顾客取消的订单
+Your Cancellations>>你取消的订单
+Cancellations>>取消
+Returns>>退货
+Shipment Breaches>>物流损毁
+An OTP has been sent to your number.>>一次性密码已经发送到你的手机号码
+Error in sending OTP, please try again.>>发送一次性密码错误，请再次尝试。
+Please enter OTP code.>>请输入一次性密码
+OTP has expired, please regenerate and enter.>>一次性密码已过期，请重新生成并输入。
+OTP verified, redirecting to Store and Warehouse Details.>>一次性密码验证成功，重新导航至店铺及仓储信息。
+OTP verification failed.>>一次性密码验证失败
+Terms and Conditions updated successfully.>>条款和政策更新成功
+Please enter store name.>>请输入店铺名称
+Select business type first.>>选择业务类型
+Please enter business name.>>请输入公司名称
+Please enter business address.>>请输入公司地址
+Please enter PIN Code.>>请输入邮编
+Please enter city/town.>>请输入城市/乡镇
+Please enter state.>>请输入省份
+Select dispatch time first.>>请选择派送时间
+Please enter pickup address.>>请输入揽货地址
+Please enter pickup PIN Code.>>请输入揽货邮编
+Please enter pickup city/town.>>请输入揽货城市/乡镇
+Please enter pickup state.>>请输入揽货省份
+No order to show.>>没有订单显示
+This PIN Code is not serviceable by our courier partners. Please enter alternate address or choose to ship directly to customers.>>我们的承运人没有在此邮编所在地没有设立服务，请填写其他地址或者选择直接寄送给客户。
+Store and Warehouse details updated successfully.>>店铺及仓储信息已更新成功
+Error in updating merchant data.>>更新商家数据失败
+Your registration is in process.\nPlease contact your Paytm representative.>>你的注册正在进行中，请联系你的Paytm代表。
+Please enter correct PAN number.>>请输入正确的永久性账户
+Please enter PAN number.>>请输入永久性账户
+Please enter beneficiary name.>>请输入收款人姓名
+Please enter account number.>>请输入账号
+Please enter bank name.>>请输入银行名称
+Please enter branch name.>>请输入支行名称
+Please enter IFSC code.>>请输入IFSC码
+Please enter state.>>请输入省份
+Select address proof type.>>选择地址证明类型
+Upload address proof image.>>上传地址证明图片
+Upload cancelled cheque image.>>上传作废的支票图片
+Upload PAN image.>>上传永久账户图片
+Upload VAT proof image.>>上传增值税凭证图片
+Upload self declaration proof image.>>上传税务自申报证明图片
+Resend Verification Email>>重新发送验证邮件
+Please enter email.>>输入邮箱
+No Internet Connection>>无网络连接
+Verify Email>>验证邮箱
+I\'ve verified. Proceed>>我已验证，继续进行
+Verify Mobile Number>>验证手机号码
+Change Mobile Number>>更换手机号码
+Change Category>>改变目录
+Please enter your correct mobile number to verify. It will be used for all communication in future.>>请输入你正确的手机号码进行验证，此手机号码将在所有通信中使用。
+Send OTP (One Time Password)>>发送一次性密码
+Reset Password>>重置密码
+Check your email. Click the link in the confirmation email sent to %s to immediately be signed.>>检查邮件，点击发送给（字符串）的验证信件中的链接并立刻签字确认
+Details have been submitted for re-verification.>>详细信息已经提交供重新验证
+Updated successfully, an OTP has been sent to your new number.>>更新成功，一次性密码已经发送到你的新手机号码。
+Error in sending details.>>发送详情错误
+Password reset successfully.>>密码重置成功
+Your verification link has expired. Please share your details again to generate a new link.>>你的验证链接已经过期，请重新填写详细信息并生成新连接。
+We have sent a verification link to your email address %s It might take up to 2-3 minutes for verification mail to arrive.\n Please check your Spam/Junk/Promotions folder as well if you don\'t receive the mail in your Inbox.>>我们已经发送验证链接到你的邮箱（字符串），请于2-3分钟检查你的邮箱；如果你未在收件箱找到邮件，请你同样检查你的垃圾信箱。
+Email Verification Sent>>验证邮箱已发送
+Please enter password.>>请输入密码
+Please enter new password.>>请输入新密码
+Please enter confirm password.>>请再次输入密码
+New password and confirm password doesn\'t match.>>两次密码不一致
+New Password>>新密码
+Confirm Password>>确认密码
+Your verification link has expired. Please share your details again to generate a new link.>>你的验证链接已经过期，请重新填写详细信息并生成新连接。
+Congratulations! Your seller account is successfully created.>>恭喜！你的卖家账户已成功建立。
+Document Status - Documents Not Uploaded>>文件状态 - 文件未上传
+Update now>>现在更新
+No item found>>没有产品
+No catalog products found.>>没有产品目录
+No more orders to show.>>没有更多订单可显示
+Search Orders>>搜索订单
+Search - ALL>>搜索 - 全部
+Search - New>>搜索 - 新订单
+Search - ToPack>>搜索 - 待打包
+Search - ToInvoice>>搜索 - 待开发票订单
+Search - ToManifest>>搜索 - 待装货订单
+Search - ToShip>>搜索 - 待运送订单
+Search - Shipped>>搜索 - 待派送订单
+Search - Delivered>>搜索 - 完成订单
+Search - Completed>>搜索 - 完成订单
+Search - Cancelled>>搜索 - 取消订单
+Search>>搜索
+Please enter email.>>请输入邮箱
+Please enter password.>>请输入密码
+Document uploaded successfully.>>文件上传成功
+Unable to find the product\n you are looking to sell?>>未能找到你要销售的产品？
+Create New Product>>创建新产品
+Select Product Category>>选择产品类别
+Selected Category>>已选的类别
+Brand>>品牌
+Product Name>>产品名称
+Merchant SKU ID>>商品SKU编码
+Merchant Sku ID>>商品SKU编码
+Selling Price>>销售价格
+Payment Mode:>>支付类型：
+Expected Payment\n Date:>>期望的支付日期：
+Logistics:>>物流：
+MarketPlace Logistics charges:>>物流收费：
+MarketPlace Commission:>>平台佣金：
+Payment Gateway Commission:>>支付网关佣金：
+Service Tax:>>服务税：
+Service Tax>>服务税
+Shipper Name:>>发货人名称：
+Packaging Dimensions>>包装尺寸
+Length>>长
+Breadth>>宽
+Height>>高
+Ships in Days>>运送天数
+Add Images>>添加图片
+Product Description(s)?>>产品描述？
+Add Product Description Section>>添加产品描述
+Add more details(Optional)>>添加更多详情（可选）
+It helps in getting your products live faster.>>帮助你的产品更好更快呈现
+Return Policy>>退货政策
+Select Days>>选择天数
+Error>>错误
+MRP should be greater than or equal to price.>>最高零售价须大于或等于售价
+Review and Confirm>>浏览并确认
+Are you sure want to submit?>>确定要提交？
+There are errors in the information provided. Please make the required changes and submit.>>提供信息有误，请按要求更改并提交。
+Product submitted for QC. We\'ll reach out to you for additional details if needed.>>产品提交供质量检查。如果需要，我们会向你要求更多信息。
+Select>>选择
+Select>>选择
+Product Description Section>>产品描述区域
+Preview This Section>>查看此区域
+Add Attribute>>添加属性
+Title>>标题
+Description>>描述
+Kindly enter product name>>请输入产品名称
+Kindly enter a SKU>>请输入SKU
+Please enter some value>>请输入一些数值
+Kindly select a valid brand>>请输入一个有效的品牌
+Kindly enter some non-zero value>>请输入一些非零数值
+Please enter a non-zero valid number>>请输入一些非零有效数字
+Please select days.>>请选择天数
+Please upload image.>>请上传图片
+Delete Image>>删除图片
+Do you want to delete this image?>>你想删除图片吗？
+Upload Product Image>>上传产品图片
+Please select image with resolution 800x800 or above.>>请选择分辨率在800x800以上的图片
+Please select JPG or JPEG image.>>请选择JPG/JPEG格式的图片
+Image upload failed due to connectivity issue.>>网络连接异常，图片上传失败
+Please select at least one item.>>请选择至少一个商品
+The product in this order will be marked Out of Stock on Paytm marketplace in order to prevent more orders liable for cancellation. Once you are ready to fulfill the order, update the quantity in the catalog to make them In Stock.>>为防止更多订单被取消，这批产品须在Paytm上标识为脱销；一旦货品到位，请更新相应进货数量，以保证其显示有货。
+Are you sure you want to accept this item\'s order?>>你确定想接受这个产品订单？
+Add to your Catalog>>添加到你的目录
+Add New Variant>>添加新的子产品
+Product>>产品
+Existing Size(s):>>原有尺寸：
+Shipping Details>>运输详情
+Warranty Details>>担保详情
+Paytm SKU>>Paytm SKU
+Dimensions (LxBxH) in inches>>体积（长宽高）英寸
+Shipping Charges>>运输费
+Is Cancelable>>可取消？
+Add to Catalog>>添加到目录
+Add Variant>>添加子产品
+Hide more product details>>隐藏更多产品详情
+View more product details>>查看更多产品详情
+This field can not be empty>>此区域不可空白
+Remove>>移动
+Add New Product>>添加新产品
+Please Wait>>请稍等
+Please wait.. documents are being uploaded.>>请稍等，文件正在上传中。
+Please wait for 30 seconds before requesting OTP again.>>再次申请一次性密码前请等待30秒。
+Your new product request is submitted, awaiting quality check approval.>>你的新产品添加请求已提交，正等待产品质量检查批准。
+SKU:>>SKU：
+Products>>产品
+Sales>>销售额
+Avg. daily Sale(₹)>>平均每日销售额
+Days of inventory>>每日库存
+AddProductOptionActivity>>添加产品可选项
+Hello world!>>你好，世界！
+Search existing product in Paytm catalog and add it to your own store. It\'s fast and easy!>>在Paytm目录中查找产品，添加到自己店铺，既方便又快捷。
+Enter Product Name>>输入产品名称
+eg: Tupperware box, iPhone 6S>>例如：白特惠盒子，苹果6S
+Create New Item>>创建新产品
+AddProductListActivity>>添加产品列表
+Payout Value>>支出
+Payment Details:>>付款明细：
+Outstanding (Today)>>未偿付（今天）
+Received>>已收到
+In QC>>在质量检查中
+QC Rejected>>质量检查未通过
+Last 7 days>>持续7天
+Last 30 days>>持续30天
+Yesterday>>昨天
+Last Week>>上周
+Last Month>>上月
+RATINGS>>排名
+Welcome>>欢迎
+Add your Product to Paytm>>添加产品到Paytm
+Hello blank fragment>>你好，空白片段。
++ Advanced Search>>+高级搜索
+Advance Search>>高级搜索
+OR>>或者
+Add Photos>>添加照片
+Camera>>相机
+Gallery>>图片墙
+Select Category>>选择品类
+You cannot create product in this category.>>你不能在此品类下创建产品
+Product Images>>产品图片
+Other Details>>其他详情
+Other Categories>>其他品类
+Product Overview>>产品总览
+More Details>>更多详情
+Edit Product Details>>编辑产品详情
+View this product on Paytm>>查看Paytm上产品
+Exit>>退出
+Filled up details will be lost!>>填好的信息即将丢失！
+Please select category>>请选择品类
+Press back again to exit the app.>>再次点击后退，退出此应用。
+Error in login. Please try again later.>>登录失败，请稍后再试。
+ORDERS PAID IN THIS PAYOUT>>在这项支出中订单已支付
+This feature is not available on your phone.>>次功能在你手机上不可用
+Reason:>>原因
+Start>>开始
+End>>结束
+Not Rated Yet>>还没有排名
+This email is already verified.>>邮件已经被验证
+Seems like your are a new user, please Sign-Up.>>似乎你是一名新用户，请立即注册吧！
+Ships to: %s>>运送到：（字符串）
+Item ID: %s>>货物编号：（字符串）
+Item ID>>货物编号
+Item ID>>货物编号
+Size>>尺寸
+Color>>颜色
+IMEI>>国际移动设备识别码
+Select Courier>>选择承运人
+Shipping Amount>>运送数量
+Please select courier>>请选择承运人
+Please enter AWB number>>请输入航空提单号
+Please enter IMEI>>请输入国际移动设备识别码
+OnBoardingActivity>>装载
+Signup>>注册
+SKIP>>跳过
+Buy this item from my store in Paytm>>从我的Paytm店铺购买此商品
+Error in creating shipment.>>创建运输失败
+Shipment created successfully.>>运输创建成功
+%s fulfilled>>（字符串）完成
+This product is fulfilled by %s. You are not allowed to update quantity.>>此产品已经履行（字符串），你还不可以更新数量。
+Easily navigate through different views of Orders, Catalog, Payments etc.>>轻松从订单、目录、支付等栏目切换浏览
+Next>>下一个
+GOT IT>>明白了
+Filter the data as per date range requirement.>>按日期要求筛选数据
+Search for a particular order through Order ID, Item ID etc.>>通过订单号、产品编码等搜索特点订单。
+Process an order in a single tap using Create shipment.>>通过“创建运输”处理订单
+Add your product from existing catalog or Create a completely new item.>>从现有目录中添加你的产品，或者创建一些全新的产品。
+Search for a particular product in your catalog.>>在目录中搜索某个特点产品
+Update quantity of your product.>>更新你的产品数量
+You can view your datewise payment details.>>你可以查看以日期标识的付款说明
+You can view your orderwise payment details.>>你可以查看以订单标识的付款说明
+Share your product with friends on Whatsapp, Facebook, Twitter etc.>>通过Whatsapp,Facebook,Twitter来和你的朋友分享你的产品。
+Reviews>>评论
+New version is available. Please update.>>新版本已发布，请更新！
+Product updated successfully.>>产品更新成功
+Menu>>菜单
+Date Filter>>日期过滤器
+This tab shows your new orders. You can process your orders by using \"Create Shipment\" option if you are using Paytm logistic services. If you are self ship merchant you can process your order using \"Mark Shipped\" option.>>此选项卡显示你的订单，如果你在使用Paytm物流，你可以通过点击“创建运输”选项来处理；如果你自己处理物流，可以点击“发货标记”来处理。
+This tab shows the orders which are awaiting courier pickup for merchants using Paytm logistic services.>>对于使用Paytm物流的商家，此选项卡显示你的订单正在等待揽货。
+This tab shows all the orders which have been shipped by you. You can track a shipment by using \"Track Shipment\" option.>>此选项卡显示所有订单被你自己处理，你可以通过点击“查看物流”选项去追踪物流信息。
+Mark Shipped>>发货标记
+Share>>分享
+This tab shows the items which are sold out. You should update the inventory so that your customers can buy these items.>>此选项卡显示售罄的产品。以便你的客户能够购买到此商品，你应及时更新库存。
+The new items added to your catalog will will undergo Quality Check and will appear here.>>须进行质量检查的新添加到目录的产品会显示在这里。
+This tab shows the items which are marked inactive by you. You can make them active again by using toggle button.>>此选项卡显示未被激活的产品，你可以点击开关按钮激活它们。
+Marked shipped successfully.>>标记发货成功
+Error in marking shipped.>>标记发货失败
+RATE IT>>打分
+LATER>>稍后
+NEVER>>从不
+Liked the experience? Rate the app on playstore!>>喜欢产品体验吗？请在应用商店里面给他打分吧。
+Rate us>>给我们打分
+This %s is already registered with us. Please contact %s for help.>>此（字符串）已经注册，请联系（字符串）寻求帮助。
+Please try after sometime or contact %s>>请稍后再试，或联系（字符串）
+Payout Calculator>>支付计算器
+Listing Information>>清单信息
+Category>>品类
+Select a Category>>选择一个品类
+Selling Price>>销售价格
+VAT>>增值税
+Date (DD/MM/YY)>>日期（日月年）
+Shipping Weight>>运输重量
+CALCULATE>>估算
+Net in Hand>>净量
+Calculation Breakup>>计算分解
+(Selling Price - Total Deduction)>>售价-总扣除
+Total Deduction>>总扣除额
+Expected Payout:>>预期支出：
+Expected Payout>>预期支出
+Show Details>>显示详情
+Please Select Category>>请选择品类
+Please Enter Valid MRP>>请输入有效的最高价
+Please Enter Valid Selling Price>>请输入有效的销售价格
+%1$s selected>>%1￥s 选中
+Download Slips>>下载提款单
+Email Slips>>邮件发送提款单
+Please Select Order>>请选择订单
+Manifest & Packing slips emailed successfully>>装货和打包单邮件发送成功
+File has been downloaded on your phone.>>文件已经下载到你手机
+Disclaimer:>>免责声明：
+This is only an approximate figure based on category commissions. Actual charges may vary depending on shipment mode and any exclusive commissions for your products.>>依据品类佣金，这仅是一个大概的数值，确切的费用会根据特点的运输方式或者某些产品特点的佣金而变化。
+%s fulfilled>>履行完成
+Update your bank & KYC details to start selling your products>>更新你的银行和KYC信息，开始销售你的产品吧
+Catalog Received>>目录收到
+Documents Cancelled>>文件取消
+Documents Rejected>>文件驳回
+Verification Pending>>等待验证
+Verification failed. Fix the issues pointed out & re-submit>>验证失败，修复所指出的问题并重新提交
+Document not uploaded>>文件未被上传
+Order>>订单
+Order(s)>>订单
+Amount>>数量
+Commision Details>>佣金详情
+Search Payment>>搜索支出
+Minimum Price>>最低价
+Maximum Price>>最高价
+Confirm Discard>>确认丢弃
+Discard Now>>现在丢弃
+Product discarded>>产品丢弃
+Are you sure want to discard the product>>你确定要丢弃这些产品吗
+This action can not be reversed!>>此动作不可撤销
+Not Allowed>>不允许
+Account doesn\'t exist>>账户不存在
+Password is incorrect>>密码不正确
+*Updated 2 hours ago>>2小时前更新过
+View Analysis>>查看分析
+Analysis>>分析
